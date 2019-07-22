@@ -1,3 +1,5 @@
+You can find this project up and running here: https://get-song-lyrics.herokuapp.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
